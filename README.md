@@ -23,3 +23,5 @@
  </html>
           
 <code>table</code>
+$ curl-o images/storm_trooper_tagged.jpg\
+>      -OL cdn.learnenough.com/storm_trooper.tagged.jpg
