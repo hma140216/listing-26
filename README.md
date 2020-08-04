@@ -2,7 +2,7 @@
 <html>
    <head>
      <title>HTML TAGS>/title>
-      <meta charset=utf-10">
+      <meta charset=utf-4">
    </head>
    <body>
       <h1>Important HTML TAGS>/h1>
