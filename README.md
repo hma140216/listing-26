@@ -5,7 +5,7 @@
       <meta charset=utf-8">
    </head>
    <body>
-      <h1>Important HTML TAGS>/h1>
+      <h2>Important HTML TAGS>/h2>
       <img src="images/storm_trooper_tagged.jpg" alt="Tagged Storm Trooper">
       <p>
           This page is designed as a quick reference for some of the common tags
